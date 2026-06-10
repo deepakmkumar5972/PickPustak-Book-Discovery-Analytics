@@ -1,4 +1,3 @@
-# PickPustak-Book-Discovery-Analytics
 # PickPustak: Book Discovery Platform & Website Analytics
 
 ## Project Overview
